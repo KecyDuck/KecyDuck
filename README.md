@@ -1,4 +1,4 @@
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3dsNjh1d3l3YW8zYjBwNXlwOGhxdm9kc2k1cGhpMzJzNWppNWVhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x77mujmMAGfMQ/giphy.gif" width="100%">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3dsNjh1d3l3YW8zYjBwNXlwOGhxdm9kc2k1cGhpMzJzNWppNWVhbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x77mujmMAGfMQ/giphy.gif" width="100%" height="50%">
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jefry Wilbert
 =====================================================================================================================================
